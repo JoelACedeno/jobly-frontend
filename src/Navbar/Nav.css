@@ -1,0 +1,14 @@
+.Navbar {
+    background-color: black;
+}
+
+.navbar-brand {
+    color: white;
+    padding-left: 20px;
+}
+
+.nav-item {
+    margin-right: 20px;
+    text-decoration: none !important;
+    color: white;
+}

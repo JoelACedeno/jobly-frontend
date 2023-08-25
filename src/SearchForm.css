@@ -1,0 +1,16 @@
+.SearchForm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px auto;
+    margin-top: 20px;
+    border-style: none;
+}
+
+.form-control {
+    width: 60vw;
+}
+
+.btn {
+    margin-left: 20px;
+}
